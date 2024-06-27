@@ -2,7 +2,7 @@
 title: "My New Project"
 date: 2024-06-26
 description: "A brief description of my new project."
-draft: false
+draft: true
 ---
 
 ## Introduction

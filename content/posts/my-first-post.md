@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2024-06-26
 description: "A brief description of my first post."
-draft: false
+draft: true
 ---
 
 ## Introduction
