@@ -1,6 +1,6 @@
 baseURL: "https://jvrbntz.github.io/jvrbntz/"
 title: javier benitez
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -63,8 +63,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/jvrbntz/"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/jvrbntz/"
 
   analytics:
     google:
