@@ -1,6 +1,6 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://jvrbntz.github.io/jvrbntz/"
 title: javier benitez
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -56,20 +56,13 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
+  homeInfoParams:
     title: "Hi there \U0001F44B"
-    subtitle: "Welcome to my site, where I write about data, computer programming, and other things."
-    # imageUrl: "<img location>"
-    # imageWidth: 120
-    # imageHeight: 120
-    # imageTitle: my image
-    buttons:
-      - name: posts
-        url: posts
-      - name: projects
-        url: projects
+    content: "Welcome to my site, where I write about data, computer programming, and other things."
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/jvrbntz/"
 
   analytics:
     google:
