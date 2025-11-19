@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313"
+baseURL: "https://jvrbntz.github.io/"
 title: javier benitez
 pagination.pagerSize: 5
 theme: PaperMod
