@@ -58,7 +58,7 @@ params:
 
   homeInfoParams:
     title: "Hi there \U0001F44B"
-    content: "Welcome to my site, where I write about data, computer programming, and other things."
+    content: "I enjoy working with data and code to transform complex problems into insight and practical solutions."
 
   socialIcons:
     - name: github
